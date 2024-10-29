@@ -44,6 +44,7 @@
   <img align="center" alt="Douglas-JS" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'> &nbsp;
   <img align="center" alt="Douglas-BOOTSTRAP" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg'> &nbsp;
   <img align="center" alt="Douglas-MYSQL" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg'> &nbsp;
+  <img align="center" alt="Douglas-JAVA" height="50" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg'> &nbsp;
 </div>
 
 ### Studying in this moment:
