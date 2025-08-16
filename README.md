@@ -54,8 +54,8 @@
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<img width="500" height="500" alt="ff043987-239b-4661-bdb1-7f4ca6092c48" src="https://github.com/user-attachments/assets/1aac1d40-b53f-4dad-8b40-fa66850c067e" />
+<br><p align="centre"><b>Instituições</b></p>  
+<img width="250" height="250" alt="ff043987-239b-4661-bdb1-7f4ca6092c48" src="https://github.com/user-attachments/assets/1aac1d40-b53f-4dad-8b40-fa66850c067e" />
 
 <br></div>
 
